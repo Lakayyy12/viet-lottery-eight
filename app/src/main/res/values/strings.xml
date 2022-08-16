@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Xổ số Đắk Lắk</string>
+    <string name="close_button" />
+
+    <string name="m1">Điều này thường ở độ tuổi từ 16 đến 21, tùy thuộc vào yêu cầu độ tuổi của quốc gia.Người dưới 18 tuổi không được mua vé số, cổ phiếu. Tội nhẹ được thực hiện bởi bất kỳ ai cố ý cung cấp một phần hoặc vé trò chơi xổ số cho người chơi dưới 18 tuổi.</string>
+    <string name="m2">Những người tham gia phải chọn số của riêng họ từ một nhóm lớn các khả năng và chúng tôi đặc biệt khuyên rằng họ nên kiểm tra kỹ vé của mình trước khi rời khỏi đại lý. Hãy nhớ rằng vé sẽ vô hiệu nếu bị đánh cắp, không đọc được hoặc bị hỏng. Người giữ vé, không phải vé số, chịu trách nhiệm về tấm vé.</string>
+    <string name="m3">Các con số chiến thắng được quay một cách thường xuyên, thường là một hoặc hai lần một tuần. Tất cả các số được rút ra phải khớp để giành giải thưởng. Thường xuyên có các giải thưởng nhỏ hơn ngoài giải thưởng lớn, có ít nhất ba con số trùng khớp.</string>
+    <string name="m4">Đây là giải thưởng xổ số lớn nhất. Bạn phải khớp tất cả các số được rút ra để giành chiến thắng. Thường xuyên có các giải thưởng nhỏ ngoài giải độc đắc.</string>
+    <string name="m5">Để tăng tiền thưởng không phải giải jackpot, một số xổ số sẽ thêm một số bổ sung vào hỗn hợp. Số rút ra nâng cao tỷ lệ thắng giải và thường được tính phí riêng.</string>
+
+    <string name="v1">Mega 6/45 là một trong hai trò chơi xổ số truyền thống của Việt Nam.
+Người chơi có thể chọn sáu số từ 1 đến 45 hoặc chọn Chọn nhanh cho các số được chọn ngẫu nhiên. Vé có giá 10.000đ. Có thể nhập trước tối đa sáu bản vẽ Mega 6/45.
+Trong khi "Pocket Entry" cho phép người chơi chọn tối đa 18 chữ số, "Pocket Entry" thì không. Các lựa chọn này sau đó có thể được nhập vào bản vẽ theo bất kỳ thứ tự nào với tổng số 18 tùy chọn.
+564 mục nhập! Đây là một kỹ thuật tuyệt vời cho những ai muốn nâng cao tỷ lệ chiến thắng của mình, nhưng nó có thể dẫn đến những tấm vé đắt đỏ!</string>
+
+<string name="v2">Power 6/55 của Việt Nam là trò chơi xổ số lâu đời thứ hai của Việt Nam, với tỷ lệ hoàn vốn là 6:55.
+Đối với cùng một loại thực phẩm, Mega 6/45 lớn hơn đáng kể.
+Người chơi có thể chọn sáu số từ 1 đến 55 hoặc chọn ngẫu nhiên bằng tùy chọn Chọn nhanh. Giống
+Bạn có thể “hốt bạc” với Mega 6/45 bằng cách chọn tối đa 18 số.</string>
+
+<string name="v3">Trong Max 3D, một trò chơi theo phong cách "Chọn 3" truyền thống, người chơi có 20 cơ hội để giành được phần thưởng trong mỗi lần rút thăm.
+Để chơi Max 3D, người chơi phải xây dựng một số có ba chữ số bằng cách sử dụng ba chữ số từ 0 đến 9. 20 số có ba chữ số được chọn mỗi lần.
+Giải độc đắc được giành bởi những người tham gia trùng khớp với một trong hai số đầu tiên.
+Một phần thưởng phụ dành cho những người có số xuất hiện trong các vòng rút 3 đến 20.</string>
+
+<string name="v4">Max 4D tương tự như Max 3D về ngoại hình, nhưng nó có cấu trúc phần thưởng hơi khác và chỉ dành riêng cho PC.
+cung cấp cho người chơi sáu thay vì hai mươi cơ hội để giành chiến thắng.
+Người chơi chọn bốn số nguyên từ 0 đến 9 để tạo ra một số có bốn chữ số. Chỉ những người chơi phù hợp với số ban đầu mới được chọn.
+Những người chơi trùng khớp với các số trong các kỳ quay 2 đến 6 sẽ đủ điều kiện nhận giải độc đắc, với giải thưởng phụ được trả cho những người trùng khớp với các số trong các kỳ quay 2 đến 6.
+Nếu người chơi khớp với hai hoặc ba chữ số cuối cùng của số bốn chữ số đã chọn, họ sẽ nhận được thêm tiền thưởng.</string>
+
+    <string name="v5">Rút thăm Keno được tổ chức 10 phút một lần trong khoảng thời gian từ 06:00 đến 21:55. Người chơi có thể vào nếu họ thích.
+    Họ có thể nhập tối đa 30 bản vẽ cùng một lúc, mang lại cho họ nhiều cơ hội giành được phần thưởng mỗi ngày!
+    Giá vé vào cửa là 10.000đ. Người chơi có thể chọn mười số từ 1 đến 80 hoặc sử dụng tùy chọn Chọn nhanh để chọn ngẫu nhiên.
+    Ghép tất cả mười số được chọn trong mỗi lần quay thưởng để giành giải thưởng.</string>
+
+<string name="abt1">Có nhiều loại xổ số là gì và chúng khác nhau như thế nào? </string>
+<string name="abt2">Xổ số là trò chơi phổ biến nhất trên thế giới, với giải thưởng lớn nhất và nó yêu cầu lựa chọn các con số cụ thể từ một tập hợp. Ví dụ: 6 chữ số trong số 45.
+Nhiều xổ số cung cấp Số tiền thưởng bên cạnh kỳ quay thưởng chính, thường là 1 hoặc 2 số từ một tập hợp nhỏ hơn, để tăng giải thưởng trong khi giảm cơ hội chiến thắng. Một hoặc hai lần một tuần, có các bản vẽ.</string>
+<string name="abt3">Các trò chơi hàng ngày, đôi khi được gọi là nhật báo, rất phổ biến vì chúng diễn ra thường xuyên. Vé rẻ hơn xổ số và được quay nhiều lần trong ngày. Phần thưởng chính được xác định trước.</string>
+<string name="abt4">Xổ số cào, thẻ cào hay trò chơi ăn liền là một tờ vé số trả thưởng ngay. Các biểu tượng và câu được tiết lộ bằng cách cào lớp mủ báo hiệu chiến thắng. Cơ hội chiến thắng thấp là 1: 3.</string>
+<string name="abt5">Xổ số là một trò chơi trong đó bạn được ấn định những con số đã được chọn trước. Bạn không có quyền kiểm soát chúng. Bởi vì xổ số được thực hiện từ một tập hợp các vé đã bán, không giống như các trò chơi xổ số khác, luôn luôn có một người chiến thắng. Thông thường, hình thức trò chơi này được sử dụng cho mục đích từ thiện hoặc gây quỹ.</string>
+    <string name="splash_screen">splash_screen</string>
+
+
+</resources>
